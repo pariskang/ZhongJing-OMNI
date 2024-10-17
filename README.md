@@ -65,6 +65,14 @@ The ZhongJing-OMNI dataset introduces the first multimodal component for TCM, co
 - **Perform joint reasoning over both modalities to reach accurate TCM diagnoses.
 - **Support real-world clinical applications where visual and textual data are intertwined.
 
+# Tongue Diagnosis Example: Qi Deficiency with Pale Tongue
+
+![Qi Deficiency Pale Tongue](TongueDiagnosis/images/demo.png)
+
+This image shows a pale, slightly swollen tongue with a thin white coating. These features are typical signs of Qi deficiency in Traditional Chinese Medicine.
+
+This example represents an actual test result from our dataset using the Claude-3.5-Sonnet model. It demonstrates the model's capability to accurately identify and describe key features of tongue images used in Traditional Chinese Medicine diagnosis.
+
 ## Contact
 For questions or collaboration, please contact at Email: ylkan21@m.fudan.edu.cn
 
