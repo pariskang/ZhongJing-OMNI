@@ -21,7 +21,7 @@ This multimodal dataset allows AI systems to develop a deeper, more holistic und
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ZhongJing-OMNI.git
+git clone https://github.com/pariskang/ZhongJing-OMNI.git
 #2. Load the dataset:
 ```
 ```python
