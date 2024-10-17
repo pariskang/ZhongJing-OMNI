@@ -67,7 +67,7 @@ The ZhongJing-OMNI dataset introduces the first multimodal component for TCM, co
 
 # Tongue Diagnosis Example: Qi Deficiency with Pale Tongue
 
-![Qi Deficiency Pale Tongue](TongueDiagnosis/images/demo.png)
+![Qi Deficiency Pale Tongue](demo.png)
 
 This image shows a pale, slightly swollen tongue with a thin white coating. These features are typical signs of Qi deficiency in Traditional Chinese Medicine.
 
